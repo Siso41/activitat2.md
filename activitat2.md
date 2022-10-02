@@ -4,7 +4,8 @@
 ### Instal·lació Apache:
 El primer pas serà instal·lar Apache.
 Instal·larem apache server amb aquesta comanda: sudo apt install apache2
--foto-
+
+![](Selecció_012.png)
 
 I tot segit desactivarem el llistat de directoris del servidor amb aquesta comanda: 
 sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
