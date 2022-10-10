@@ -94,4 +94,9 @@ Entrarema la configuració i posarem aquest text:
 
 ![](Selecció_074.png)
 
+#### Configuració OwndCloud
+
+![](Selecció_076.png)
+
+![](Selecció_077.png)
 
