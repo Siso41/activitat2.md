@@ -86,13 +86,6 @@ Entrarema la configuració i posarem aquest text:
 
 ![](Selecció_030.png)
 
-# Activitat 3
-
-#### Canviar nom i correu:
-
-![](Selecció_075.png)
-
-![](Selecció_074.png)
 
 #### Configuració OwndCloud
 
